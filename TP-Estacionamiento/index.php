@@ -43,11 +43,10 @@
 
     <!-- Begin page content -->
     <main role="main" class="container">
-      <h1 class="mt-5">Sticky footer with fixed navbar</h1>
-      <p class="lead">Pin a fixed-height footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS. A fixed navbar has been added with <code>padding-top: 60px;</code> on the <code>body &gt; .container</code>.</p>
-      <p>Back to <a href="../sticky-footer">the default sticky footer</a> minus the navbar.</p>
+      <h1 class="mt-5">Estacionamiento</h1>
+      <p class="lead">Sistema de gestión de vehículos. En este programa podra ingresar cualquier tipo de vehículo para llevar a cabo un seguimiento de las entradas y salidas de los mismos.
     </main>
-
+    <img src="http://puertosylogistica.com/wp-content/uploads/2018/09/estacionamientos-inteligentes.jpg"height="900">
     <footer class="footer">
       <div class="container">
         <span class="text-muted">Place sticky footer content here.</span>
